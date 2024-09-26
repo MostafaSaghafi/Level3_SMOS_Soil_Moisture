@@ -1,1 +1,3 @@
-# Level3_SMOS_Soil_Moisture
+### Extracting Soil Moisture, Water Content, and Optical Thickness NAD from Level 3 SMOS (NetCDF Files) Using Python for Specific Coordinates
+
+Extracting soil moisture, water content, and optical thickness data from Level 3 SMOS (Soil Moisture and Ocean Salinity) NetCDF files involves using Python libraries such as NetCDF4 and NumPy. This process requires first opening the NetCDF file and identifying the relevant variables related to soil moisture and optical thickness. By specifying the desired geographical coordinates, users can subset the data to extract specific measurements. Through careful manipulation of the datasets, one can effectively analyze the soil moisture and water content, providing valuable insights for agronomic and hydrological studies. This method promotes a deeper understanding and application of satellite-derived environmental data.
